@@ -1,4 +1,4 @@
-# TheSocket(Coding Club Project) Hii Aagam Here!
+# SitcomSocial : Hii Aagam Here!
 
 I am the Devloper of TheSocket.
 TheSocket- A real-time personal and group chat web application
