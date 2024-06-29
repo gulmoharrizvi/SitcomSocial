@@ -1,7 +1,7 @@
 # SitcomSocial : Hii Aagam Here!
 
-I am the Devloper of TheSocket.
-TheSocket- A real-time personal and group chat web application
+I am the Devloper of SitcomSocial.
+SitcomSocial- A real-time personal and group chat web application
 
 -Developed a real-time personal and group chat web application, like _discord_ using HTML, CSS, JavaScript and
 NodeJS
